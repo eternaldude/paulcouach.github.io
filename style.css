@@ -1,0 +1,103 @@
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  color: #555;
+  margin: 0;
+
+  font-family: 'Montserrat' , sans-serif;
+}
+
+#header1 {
+  background-color: #1abc9c;
+  height: 400px;
+}
+
+#header {
+  background-color: #1abc9c;
+  height: 600px;
+  text-align: center;
+}
+
+#objet {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 60px;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  margin: 0 auto;
+  padding: 60px 0;
+  text-align: center;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.about-author img {
+  border-radius: 50%;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.contain {
+  max-width: 800px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.progress-bar {
+    background: #1abc9c;
+    line-height: 12px;
+    border-radius: 32px;
+}
+
+.progress-barang {
+    background: #bc1a3a;
+    line-height: 12px;
+    border-radius: 32px;
+}
+ 
+.progress {
+    display: flex;
+    background-color: #e9ecef;
+    border-radius: 32px;
+    height: 12px;
+    width: 500px;
+}
+
+#footer {
+    height: 100px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+#footer a {
+  background-color: #1abc9c;
+  text-decoration: none;
+  color: white;
+  padding: 30px 30px;
+  border-radius: 3px;
+  font-size: 20px;
+}
+
+#footer a:hover {
+  background-color: #e9ecef;
+}
